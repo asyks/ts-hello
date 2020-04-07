@@ -1,7 +1,7 @@
 {
-  "name": "ts-react-redux-hello",
+  "name": "ts-hello",
   "version": "0.0.1",
-  "description": "A typescript react redux hello world for use as a github template",
+  "description": "A typescript hello world for use as a github template",
   "private": true,
   "author": "Aaron Sykes <aaron@aaronsykes.com>",
   "license": "MIT",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/asyks/ts-react-redux-hello.git"
+    "url": "https://github.com/asyks/ts-hello.git"
   },
   "dependencies": {
     "@types/node": "13.1.8",
@@ -25,6 +25,5 @@
     "webpack-cli": "3.3.11",
     "http-server": "0.12.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }

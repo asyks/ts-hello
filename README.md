@@ -1,6 +1,6 @@
 # hydrant
 
-A typescript react redux hello world for use as a github template.
+A typescript hello world for use as a github template.
 
 
 ### Building for local testing
@@ -26,5 +26,5 @@ Running tests with docker-compose:
 
 Running tests with just docker:
 ```
-> docker run ts-react-redux-hello_app npm test
+> docker run ts-hello_app npm test
 ```
