@@ -1,4 +1,4 @@
-# hydrant
+# ts-hello
 
 A typescript hello world for use as a github template.
 
